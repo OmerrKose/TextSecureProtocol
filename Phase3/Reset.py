@@ -23,8 +23,7 @@ from ecpy.keys import ECPublicKey, ECPrivateKey
 from ecpy.ecdsa import ECDSA
 
 API_URL = 'http://cryptlygos.pythonanywhere.com'
-sL = 9443577010759501705467685963804685863003388987160915807979355241825104017776 #Private Key
-
+sL =  ###Private Key
 stuID = 25224
 stuID = str(stuID)
 
