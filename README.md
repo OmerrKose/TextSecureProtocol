@@ -1,3 +1,3 @@
 # TextSecureProtocol
-A basic text secure protocol in 3 phases. Sending messages to other students in the university server by SHA_256 and MAC code.
-Elliptic curve algorithm is used for the encryption.
+A basic text secure protocol in 3 phases. Sending messages to other students in the university server by SHA_256 and MAC code. <br /> Term project for the lecture Cryptology.
+Elliptic curve algorithm is used for the encryption. <br /> Users input is being encrypted by the program then sent to the server. Other user can recieve this input via his/her program. After the encryption of the recieved message from the server take place, client can read the sent message. <br /> Encryptions and decryptions are made by SHA_256 protocol followed by MAC code. Both public and private keys of the users are stored remotely and locally. <br /> Program establishes a relatively basic and secure chatting application by the terminal.
